@@ -55,6 +55,7 @@ h1, p {
   font-size: 12px;
 }
 
+/* testo */
 section p {
   max-width: 1050px;
   width: 100%;
@@ -65,4 +66,16 @@ section p {
 .yellow {
   background-color: yellow;
 }
+/* /testo */
+
+ul {
+  padding-left: 15px;
+}
+
+/* tabella */
+
+thead {
+  p
+}
+
 
