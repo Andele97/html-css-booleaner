@@ -93,3 +93,24 @@ th, td {
 tr:nth-child(odd) {
   background-color: rgb(177, 229, 242);
 }
+
+/* footer */
+
+.text {
+  color: gray;
+  font-weight: bold;
+}
+
+.interesting {
+  height: 200px;
+  margin: 10px;
+  position: relative;
+}
+
+.interesting p {
+  position: absolute;
+  top: 10px;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+}
