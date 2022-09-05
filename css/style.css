@@ -4,6 +4,10 @@
   margin: 0;
 }
 
+main {
+  margin: 0 10px
+}
+
 /* HEADER */
 
 h1, p {
@@ -41,10 +45,8 @@ h1, p {
 
 /* MAIN */
 
-.foto {
-  width: 600px;
-  height: 350px;
-  border: 1px solid black;
-
+.info-foto {
+  margin: 0;
+  font-size: 15px;
 }
 
