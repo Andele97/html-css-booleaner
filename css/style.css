@@ -8,6 +8,10 @@ main {
   margin: 0 10px
 }
 
+.yellow {
+  background-color: yellow;
+}
+
 /* HEADER */
 
 h1, p {
@@ -63,9 +67,6 @@ section p {
   text-align: left;
 }
 
-.yellow {
-  background-color: yellow;
-}
 /* /testo */
 
 ul {
